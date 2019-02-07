@@ -852,7 +852,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   logging: 1
-  txt: {fileID: 804222630}
+  timerTxt: {fileID: 804222630}
 --- !u!224 &868170790 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 224070147403872398, guid: ce5089f3caa5bb042a4d4c23a427bc82,
