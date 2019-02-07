@@ -1,2 +1,2 @@
-# Maze_Game
+# Maze Game
 Unity Developed Mobile Game
