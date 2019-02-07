@@ -4,3 +4,4 @@ Unity Developed Mobile Game
 <p>Project Start Date: Jan 2019</p>
 
 <p>The goal of this project is to learn the latest version of Unity while createing a working mobile game at the same time.</p>
+<p>To find all working builds, navigate to the Builds directory.</p>
