@@ -316,6 +316,7 @@
     <Compile Include="Assets\Scripts\JoystickMovement.cs" />
     <Compile Include="Assets\Scripts\SimpleMovement.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\Scripts\TimerStop.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\com.unity.analytics\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef" />
