@@ -25,9 +25,9 @@ public class Timer : MonoBehaviour
 
         float t = Time.time - timer; //grab the difference
         string minutes = ((int)t / 60).ToString();  //get minutes 
-        string seconds = (t % 60).ToString("f0"); //get seconds and remove milisecond
+        string seconds = (t % 60).ToString("f2"); //get seconds and remove milisecond
 
-        timerTxt.text = "Timer: " + minutes + ":" + seconds;  //display the timer
+        timerTxt.text = "Timer: " + minutes + "." + seconds;  //display the timer
     }
 
     //to run this send a message Finish
