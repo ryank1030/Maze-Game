@@ -41,6 +41,7 @@ public class Timer : MonoBehaviour
     public void ResetTimer()
     {
         finished = false;
+        timerTxt.color = Color.red;
         timer = Time.time;
         
     }

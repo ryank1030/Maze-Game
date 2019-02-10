@@ -313,6 +313,8 @@
     <Compile Include="Assets\Downloaded\Virtual Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Downloaded\Virtual Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Downloaded\Virtual Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Downloaded\WorldSkies\Demo\Scripts\LookCamera.cs" />
+    <Compile Include="Assets\Downloaded\WorldSkies\Demo\Scripts\SkyboxChanger.cs" />
     <Compile Include="Assets\Scripts\JoystickMovement.cs" />
     <Compile Include="Assets\Scripts\SimpleMovement.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
