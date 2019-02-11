@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro.Editor", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.CollabProxy.Editor", "Unity.CollabProxy.Editor.csproj", "{C12CEEC6-100C-58A2-DE36-314E4DE5E40B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze-Game.Editor", "Maze-Game.Editor.csproj", "{76FAB97F-4D0D-84CF-193A-87AD085E0F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{C12CEEC6-100C-58A2-DE36-314E4DE5E40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C12CEEC6-100C-58A2-DE36-314E4DE5E40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C12CEEC6-100C-58A2-DE36-314E4DE5E40B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FAB97F-4D0D-84CF-193A-87AD085E0F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FAB97F-4D0D-84CF-193A-87AD085E0F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FAB97F-4D0D-84CF-193A-87AD085E0F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FAB97F-4D0D-84CF-193A-87AD085E0F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
