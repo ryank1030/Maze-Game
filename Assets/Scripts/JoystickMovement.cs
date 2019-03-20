@@ -29,7 +29,7 @@ public class JoystickMovement : MonoBehaviour
 
     public void ResetPlayerLocation()
     {
-        transform.position = new Vector3(35, 0.5F, 40);
+        transform.position = new Vector3(35, 0, 40);
         transform.rotation = Quaternion.Euler(0, 35, 0);
     }
 }
